@@ -35,10 +35,4 @@
 
 ## NOTE: This project will take about 1 hour to run Depends on your computer
 
-### Accuracy Graph
 
-![Graph Image](./rec/graph.png)
-
-### Output
-
-![Output Image](./rec/output.png)
